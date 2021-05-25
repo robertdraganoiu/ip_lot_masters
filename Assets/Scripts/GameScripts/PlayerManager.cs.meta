@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 5f6f2e46e7f3f8147be5e69ba5ade71f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameManager: {instanceID: 0}
+  - Azoth: {fileID: 8864408327520987956, guid: 16c96cf5eca3154419f70156c538c103, type: 3}
+  - Diana: {fileID: 5707739095580377218, guid: fc67bee0a194b674ea655f94b32560cb, type: 3}
+  - Johnson: {fileID: 7590045487635514229, guid: 5e11fb2c2c95cd94c83ba2ea1b79ae0b,
+      type: 3}
+  - Kor: {instanceID: 0}
+  - Orion: {instanceID: 0}
+  - Roland: {instanceID: 0}
+  - Scarlet: {instanceID: 0}
+  - Sidra: {instanceID: 0}
+  - Theros: {instanceID: 0}
+  - Thatch: {instanceID: 0}
+  - Ulgrim: {instanceID: 0}
+  - WuShang: {instanceID: 0}
+  - PlayerArea: {instanceID: 0}
+  - EnemyArea: {instanceID: 0}
+  - PlayerSlot1: {instanceID: 0}
+  - PlayerSlot2: {instanceID: 0}
+  - PlayerSlot3: {instanceID: 0}
+  - PlayerSlot4: {instanceID: 0}
+  - PlayerSlot5: {instanceID: 0}
+  - EnemySlot1: {instanceID: 0}
+  - EnemySlot2: {instanceID: 0}
+  - EnemySlot3: {instanceID: 0}
+  - EnemySlot4: {instanceID: 0}
+  - EnemySlot5: {instanceID: 0}
+  - PlayerYard: {instanceID: 0}
+  - EnemyYard: {instanceID: 0}
+  - EnemyBattleZone: {instanceID: 0}
+  - PlayerBattleZone: {instanceID: 0}
+  - PlayerManaZone: {instanceID: 0}
+  - EnemyManaZone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

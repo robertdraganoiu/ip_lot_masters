@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60db620d81afd5d4aaea5e780aef8f9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerManager: {instanceID: 0}
+  - cardFront: {fileID: 21300000, guid: 1d045eca0b82f4645b1c64958ec6ed9d, type: 3}
+  - cardBack: {fileID: 21300000, guid: af285cbe79355554285a5000d65aead3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
